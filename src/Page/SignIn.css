@@ -1,0 +1,76 @@
+.h{
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/058eee37-6c24-403a-95bd-7d85d3260ae1/e10ba8a6-b96a-4308-bee4-76fab1ebd6ca/IN-en-20240422-POP_SIGNUP_TWO_WEEKS-perspective_WEB_db9348f2-4d68-4934-b495-6d9d1be5917e_medium.jpg');
+    height: 150vh;
+    color: white;
+    position: relative;
+    overflow-x: hidden;
+
+}
+
+
+.v{
+   
+    background-image: linear-gradient(180deg,transparent,rgba(15, 15, 15, 0.473));
+    
+    width: 100%;
+    height: 150vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.sign{
+    margin-top: -50px;
+    width: 100%;
+    height: 110vh;
+    background-color: rgba(7, 7, 7, 0.774);
+    color: white;
+    
+}
+.input{
+    width: 80%;
+    height: 60px;
+    background-color: rgba(67, 86, 138, 0.356);
+}
+.sign-btn{
+    color:white;
+    background-color: red;
+    width: 80%;
+    height: 40px;
+
+}
+.sign-btn2{
+    color:white;
+    background-color: rgba(151, 123, 123, 0.801);
+    width: 80%;
+    height: 40px;  
+}
+.sign-foot
+{
+    background-color: rgba(0, 0, 0, 0.589);
+    height: 300px;
+}
+.out-btn{
+    margin: 30px;
+    background-color: red;
+    padding: 5px;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+
+}
+
+@media screen and (max-width: 290px){
+    .out-btn{
+        /* margin: 30px; */
+        background-color: red;
+        padding: 0px;
+        border-radius: 5px;
+        border: 0;
+        color: white;
+        margin-left: 0px;
+    
+    }
+    
+}

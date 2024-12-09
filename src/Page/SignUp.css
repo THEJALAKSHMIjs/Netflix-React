@@ -1,0 +1,21 @@
+.try{
+    background-color:white;
+    color: blueviolet;
+    height: 100vh;
+    overflow-x: hidden;
+    color: black;
+}
+.upLog{
+    margin-bottom: -40px;
+    margin-top: -30px;
+}
+.up-inp{
+    height: 60px;
+    width: 100%;
+}
+.up-btn{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(196, 26, 26);
+    border: 0;
+}
